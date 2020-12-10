@@ -150,6 +150,7 @@ pl_highwood_b19
 pl_jinn_b4b
 pl_manngrove_rc5
 pl_midwest_b16
+pl_millstone_v3
 pl_operandi_a13
 pl_shoreleave_rc1
 pl_sludgepit_final4
