@@ -2,11 +2,11 @@ ctf_2fort
 ctf_doublecross
 ctf_landfall
 ctf_sawmill
-ctf_newbine_rc2
+ctf_turbine_pro_rc4
 ctf_well
 cp_5gorge
-cp_badlands
-cp_coldfront
+cp_prolands_rc2ta
+cp_warmfront
 cp_fastlane
 cp_foundry
 cp_granary
@@ -118,6 +118,7 @@ ctf_haarp
 ctf_helltrain_event_final2
 ctf_mach4
 ctf_mercy
+ctf_newbine_rc2
 ctf_nuclide_rc4
 ctf_overlook_b1
 ctf_rooftop

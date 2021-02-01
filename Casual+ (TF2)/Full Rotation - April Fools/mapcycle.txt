@@ -3,14 +3,14 @@ ctf_2fooooooooooooooooort_rc3
 ctf_doublecross
 ctf_landfall
 ctf_sawmill
-ctf_newbine_rc2
+ctf_turbine_pro_rc4
 ctf_turrrrrrrrrrrrrrrrrbine_fix3
 ctf_enibrut_b2
 ctf_well
 cp_21gorge_a4
 cp_sdnaldab
 cp_lwobtsud
-cp_coldfront
+cp_warmfront
 cp_fastlane
 cp_foundry
 cp_yranarg
@@ -61,7 +61,7 @@ koth_king
 koth_nucleus
 koth_sawmill
 koth_suijin
-koth_viaduct
+koth_product_rcx
 koth_probed
 koth_weeeeeeeeeeeeeeeeell_rc2
 sd_doomsday
@@ -108,6 +108,7 @@ ctf_extraction_b6
 ctf_haarp
 ctf_mach4
 ctf_mercy
+ctf_newbine_rc2
 ctf_nuclide_rc4
 ctf_overlook_b1
 ctf_rooftop
