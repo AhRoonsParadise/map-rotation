@@ -61,6 +61,7 @@ koth_probed
 sd_holiday
 pd_watergate
 pd_snowville_event
+rd_asteroid_redux_rc7b
 cp_alloy_rc3
 cp_antiquity_b18
 cp_axle_rc1

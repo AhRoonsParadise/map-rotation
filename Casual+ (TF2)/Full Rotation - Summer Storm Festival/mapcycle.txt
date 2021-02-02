@@ -63,6 +63,7 @@ koth_product_rcx
 koth_probed
 sd_doomsday
 pd_watergate
+rd_asteroid_redux_rc7b
 cp_alloy_rc3
 cp_antiquity_b18
 cp_axle_rc1
