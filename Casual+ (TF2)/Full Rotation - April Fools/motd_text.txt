@@ -1,16 +1,17 @@
-"The Romantic Paradise Experience."
 Welcome to Ah_Roon's Paradise Community Server!
 
 General Rules:
-1. Be nice to other players! Harassment, Rudeness, any Toxic behaviors will not be tolerated.
-2. Do not spam the chat/voice chat.(Playing music in voice chat is allowed except disturbing music)
-3. Advertising other community or website is forbidden. 
-4. Respect your/other's privacy.
-5. Do not abuse our support system such as CallAdmin.
-6. Please refrain from making non-existent rules.
-7. You may not abuse in-game bug, glitch or exploits.
-8. Do not use third-party clients/mods which gains unfair advantage (= Do not cheat).
-9. You may not abuse vote system(e.g. Votekick, votemute).
-10. No NSFW or offensive content. This includes any content you upload to our services.
+1. Be nice to other players
+2. Do not spam the chat/voice chat(Playing music in voice chat is allowed except disturbing music)
+3. No advertising other community or website
+4. Respect your/other's privacy
+5. Do not abuse support system (e.g. CallAdmin)
+6. Refrain from making non-existent rules
+7. Do not abuse in-game bug, glitch or exploits
+8. Do not use client/mod which gains unfair advantage
+9. Do not abuse vote system(e.g. Votekick)
+10. No NSFW or offensive content(e.g. Sprays)
+11. Scamming/Unapproved transactions are forbidden
+More rules can be read on https://ahroonsparadise.github.io/rules
 
 Have fun, and happy April Fools Day!
