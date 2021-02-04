@@ -13,7 +13,6 @@ ctf_2fooooooooooooooooort_rc3
 ctf_doublecross
 ctf_landfall
 ctf_sawmill
-ctf_turbine_pro_rc4
 ctf_turrrrrrrrrrrrrrrrrbine_fix3
 ctf_enibrut_b2
 ctf_well
@@ -24,12 +23,12 @@ cp_warmfront
 cp_fastlane
 cp_foundry
 cp_yranarg
-cp_gullywash_f2a
+cp_gullywash_final1
 cp_metalworks
 cp_mercenarypark
 cp_mossrock
 cp_powerhouse
-cp_process_f7
+cp_process_final
 cp_sunshine
 cp_snakewater_final1
 cp_standin_final
@@ -47,7 +46,7 @@ cp_snowplow
 cp_steel
 pl_retawdab
 pl_badwater_smol
-pl_barnblitz_pro6
+pl_barnblitz
 pl_ztilbnrab
 pl_borneo
 pl_enclosure_final
@@ -71,12 +70,11 @@ koth_king
 koth_nucleus
 koth_sawmill
 koth_suijin
-koth_product_rcx
+koth_viaduct
 koth_probed
 koth_weeeeeeeeeeeeeeeeell_rc2
 sd_doomsday
 pd_watergate
-rd_asteroid_redux_rc7b
 arena_backlot_rc2
 arena_blackwood_valley
 arena_discovery_rc2
@@ -164,7 +162,6 @@ koth_namicott_rc4
 koth_nerve
 koth_occult_rc6
 koth_overgrowth
-koth_product_rcx
 koth_quarry_rc5
 koth_ramjam_rc1
 koth_skyward_b2
@@ -210,3 +207,4 @@ plr_fishladder3
 sd_laserfight
 sd_turbine_a3a
 sd_hunted
+rd_asteroid_redux_rc7b
