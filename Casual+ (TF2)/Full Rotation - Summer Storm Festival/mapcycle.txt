@@ -103,6 +103,7 @@ cp_hazyfort_rc6
 cp_hybrid_v4
 cp_indulge
 cp_kalinka_rc6
+cp_mannbase_b17c
 cp_mojave
 cp_obscure_final
 cp_overgrown_rc7b
@@ -121,7 +122,9 @@ cp_waste_v2
 cp_whiterock_rc2
 cp_zinkenite_b3a
 ctf_badlands_2006_rc1
+ctf_badwater_b6
 ctf_chaos
+ctf_degrootkeep_sunset_rc1
 ctf_extraction_b6
 ctf_fusion_b2
 ctf_haarp
@@ -166,12 +169,12 @@ koth_slaughter_b2a
 koth_spillway_rc3a
 koth_synthetic_rc6a
 koth_trenchfoot_b1a
+koth_warmtic_f1
 koth_waste
 pl_boundary_final1
 pl_cashworks_final1
 pl_corrode_rc2
 pl_cranetop_b8
-pl_eclipse_rc2
 pl_effigy_rc2
 pl_emerge_b3
 pl_escarpment_rc1
@@ -182,6 +185,7 @@ pl_haywire_rc5
 pl_highwood_b19
 pl_jinn_b4b
 pl_manngrove_rc5
+pl_mesaworks_rc3
 pl_midwest_b16
 pl_morrigan_alley_b3
 pl_operandi_a13
