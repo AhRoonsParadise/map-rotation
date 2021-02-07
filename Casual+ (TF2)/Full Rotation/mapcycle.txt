@@ -99,7 +99,6 @@ cp_hazyfort_rc6
 cp_hybrid_v4
 cp_indulge
 cp_kalinka_rc6
-cp_mannbase_b17c
 cp_mojave
 cp_obscure_final
 cp_overgrown_rc7b
