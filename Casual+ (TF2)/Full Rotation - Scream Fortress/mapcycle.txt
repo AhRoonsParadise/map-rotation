@@ -16,22 +16,21 @@ ctf_turbine
 ctf_well
 cp_5gorge
 cp_badlands
-cp_warmfront
+cp_coldfront
 cp_fastlane
 cp_foundry
 cp_granary
 cp_gullywash_final1
 cp_metalworks
-cp_mercenarypark
 cp_mossrock
 cp_powerhouse
 cp_process_final
 cp_sunshine_event
 cp_snakewater_final1
 cp_standin_final
+cp_vanguard
 cp_well
 cp_yukon_final
-cp_vanguard
 cp_degrootkeep
 cp_dustbowl_event
 cp_egypt_final
@@ -39,6 +38,7 @@ cp_gorge_event
 cp_gravelpit
 cp_junction_final
 cp_manor_event
+cp_mercenarypark
 cp_snowplow
 cp_steel
 pl_badwater
@@ -109,6 +109,7 @@ cp_shelter_rc2
 cp_tidal_v4
 cp_waste_v2
 cp_alloy_rc3
+cp_badwater_b11
 cp_burghausen_rc1_event
 cp_conifer_rc2
 cp_desertion_event
@@ -122,6 +123,7 @@ cp_hadal_b13a
 cp_hazyfort_rc6
 cp_mojave
 cp_overgrown_rc7b
+cp_rocketforge_b3
 cp_rumble_rc6
 cp_scourge_b4
 cp_silvertrail_rc2
@@ -154,8 +156,8 @@ ctf_haarp
 koth_arctic_b3
 koth_ashville_rc2c
 koth_anthem_b4
-koth_arctic_b3
 koth_bagel_rc3
+koth_byramid_v2
 koth_chasm_b1
 koth_clearcut_b15c
 koth_coalplant_b8
@@ -185,6 +187,7 @@ koth_synthetic_event_rc3
 koth_trenchfoot_b1a
 koth_warmtic_f1
 koth_waste
+koth_watermill_final
 pl_boundary_final1
 pl_cashworks_final1
 pl_crag_event_d

@@ -12,6 +12,7 @@ General Rules:
 9. Do not abuse vote system(e.g. Votekick)
 10. No NSFW or offensive content(e.g. Sprays)
 11. Scamming/Unapproved transactions are forbidden
+12. Ban evasion is strictly forbidden
 More rules can be read on https://ahroonsparadise.github.io/rules
 
 Have fun, and Merry Smissmas!
